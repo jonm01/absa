@@ -17,4 +17,4 @@
 
 
 
-Disclaimer: The source code provided here is only for learning and illustration purposes.I am not responsible for how it is used and assume no liability for any detrimental usage of the source code. I don't promote or encourage scraping or scrape the websites. 
+Disclaimer: The source code provided here is only for learning and illustration purposes. I am not responsible for how it is used and assume no liability for any detrimental usage of the source code. I don't promote or encourage scraping or scrape the websites. 
